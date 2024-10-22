@@ -11,3 +11,4 @@ pip install dash
 ```
 python python_dashboard_ass.py
 ```
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/6e47270a-9f8c-42c5-a195-952ba1eeb3a0">
